@@ -18,7 +18,8 @@ namespace Lab2_HW
             Application.SetCompatibleTextRenderingDefault(false);
 
             // Application.Run(new Task1Form());
-            Application.Run(new Task2Form());
+            // Application.Run(new Task2Form());
+            Application.Run(new Task3_4Form());
         }
     }
 }
