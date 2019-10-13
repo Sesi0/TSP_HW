@@ -1,0 +1,10 @@
+D:\Student\DotNET\TSP_HW\Lab2_HW\bin\Debug\Lab2_HW.exe.config
+D:\Student\DotNET\TSP_HW\Lab2_HW\bin\Debug\Lab2_HW.exe
+D:\Student\DotNET\TSP_HW\Lab2_HW\bin\Debug\Lab2_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.csprojAssemblyReference.cache
+D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.Task1.resources
+D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.Properties.Resources.resources
+D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.csproj.GenerateResource.cache
+D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.csproj.CoreCompileInputs.cache
+D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.exe
+D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.pdb
