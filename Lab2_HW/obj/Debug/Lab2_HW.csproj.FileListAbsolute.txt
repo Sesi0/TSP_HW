@@ -10,3 +10,4 @@ D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.pdb
 D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.Task1Form.resources
 D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.Task2Form.resources
 D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.Task3_4Form.resources
+D:\Student\DotNET\TSP_HW\Lab2_HW\obj\Debug\Lab2_HW.Task5Form.resources

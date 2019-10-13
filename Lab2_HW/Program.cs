@@ -19,7 +19,8 @@ namespace Lab2_HW
 
             // Application.Run(new Task1Form());
             // Application.Run(new Task2Form());
-            Application.Run(new Task3_4Form());
+            // Application.Run(new Task3_4Form());
+            Application.Run(new Task5Form());
         }
     }
 }
