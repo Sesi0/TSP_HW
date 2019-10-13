@@ -3,16 +3,16 @@ using System.Windows.Forms;
 
 namespace Lab2_HW
 {
-    public partial class Task1 : Form
+    public partial class Task1Form : Form
     {
         private bool isButtonVisible;
 
-        public Task1()
+        public Task1Form()
         {
             this.InitializeComponent();
         }
 
-        private void Task1_Load(object sender, EventArgs e)
+        private void Task1Form_Load(object sender, EventArgs e)
         {
             if (DialogResult.Yes == MessageBox.Show("Work with button?", "Question", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
             {

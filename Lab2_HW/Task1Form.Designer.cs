@@ -1,6 +1,6 @@
 ﻿namespace Lab2_HW
 {
-    partial class Task1
+    partial class Task1Form
     {
         /// <summary>
         /// Required designer variable.
@@ -155,7 +155,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Task1";
             this.Text = "Task1";
-            this.Load += new System.EventHandler(this.Task1_Load);
+            this.Load += new System.EventHandler(this.Task1Form_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

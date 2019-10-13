@@ -16,7 +16,9 @@ namespace Lab2_HW
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Task1());
+
+            // Application.Run(new Task1Form());
+            Application.Run(new Task2Form());
         }
     }
 }
