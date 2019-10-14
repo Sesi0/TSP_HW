@@ -16,7 +16,8 @@ namespace Lab3_HW
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Task1MainForm());
+            //Application.Run(new Task1MainForm());
+            Application.Run(new Task2MainForm());
         }
     }
 }
