@@ -108,6 +108,9 @@
     <EmbeddedResource Include="Task2MainForm.resx">
       <DependentUpon>Task2MainForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Task3MainForm.resx">
+      <DependentUpon>Task3MainForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

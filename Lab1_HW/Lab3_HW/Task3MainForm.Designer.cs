@@ -28,12 +28,77 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.Year = new System.Windows.Forms.TextBox();
+            this.Month = new System.Windows.Forms.TextBox();
+            this.calculateButton = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(56, 17);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Година";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(12, 36);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(50, 17);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Месец";
+            // 
+            // Year
+            // 
+            this.Year.Location = new System.Drawing.Point(245, 8);
+            this.Year.Name = "Year";
+            this.Year.Size = new System.Drawing.Size(120, 22);
+            this.Year.TabIndex = 2;
+            // 
+            // Month
+            // 
+            this.Month.Location = new System.Drawing.Point(245, 36);
+            this.Month.Name = "Month";
+            this.Month.Size = new System.Drawing.Size(120, 22);
+            this.Month.TabIndex = 3;
+            // 
+            // calculateButton
+            // 
+            this.calculateButton.Location = new System.Drawing.Point(15, 78);
+            this.calculateButton.Name = "calculateButton";
+            this.calculateButton.Size = new System.Drawing.Size(350, 24);
+            this.calculateButton.TabIndex = 4;
+            this.calculateButton.Text = "Каква е годината и колко месеца има в нея?";
+            this.calculateButton.UseVisualStyleBackColor = true;
+            // 
+            // Task3MainForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(377, 125);
+            this.Controls.Add(this.calculateButton);
+            this.Controls.Add(this.Month);
+            this.Controls.Add(this.Year);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Name = "Task3MainForm";
             this.Text = "Task3MainForm";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox Year;
+        private System.Windows.Forms.TextBox Month;
+        private System.Windows.Forms.Button calculateButton;
     }
 }
