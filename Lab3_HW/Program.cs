@@ -18,7 +18,8 @@ namespace Lab3_HW
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Task1MainForm());
             //Application.Run(new Task2MainForm());
-            Application.Run(new Task3MainForm());
+            //Application.Run(new Task3MainForm());
+            Application.Run(new Task4MainForm());
         }
     }
 }
