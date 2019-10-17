@@ -16,5 +16,10 @@ namespace Lab3_HW
         {
             InitializeComponent();
         }
+
+        private void calculateButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

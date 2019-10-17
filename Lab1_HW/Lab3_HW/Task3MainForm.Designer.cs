@@ -75,6 +75,7 @@
             this.calculateButton.TabIndex = 4;
             this.calculateButton.Text = "Каква е годината и колко месеца има в нея?";
             this.calculateButton.UseVisualStyleBackColor = true;
+            this.calculateButton.Click += new System.EventHandler(this.calculateButton_Click);
             // 
             // Task3MainForm
             // 
