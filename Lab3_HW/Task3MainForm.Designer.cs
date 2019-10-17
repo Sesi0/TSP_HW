@@ -30,8 +30,8 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.Year = new System.Windows.Forms.TextBox();
-            this.Month = new System.Windows.Forms.TextBox();
+            this.yearTextBox = new System.Windows.Forms.TextBox();
+            this.monthTextBox = new System.Windows.Forms.TextBox();
             this.calculateButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -53,19 +53,19 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Месец";
             // 
-            // Year
+            // yearTextBox
             // 
-            this.Year.Location = new System.Drawing.Point(245, 8);
-            this.Year.Name = "Year";
-            this.Year.Size = new System.Drawing.Size(120, 22);
-            this.Year.TabIndex = 2;
+            this.yearTextBox.Location = new System.Drawing.Point(245, 8);
+            this.yearTextBox.Name = "yearTextBox";
+            this.yearTextBox.Size = new System.Drawing.Size(120, 22);
+            this.yearTextBox.TabIndex = 2;
             // 
-            // Month
+            // monthTextBox
             // 
-            this.Month.Location = new System.Drawing.Point(245, 36);
-            this.Month.Name = "Month";
-            this.Month.Size = new System.Drawing.Size(120, 22);
-            this.Month.TabIndex = 3;
+            this.monthTextBox.Location = new System.Drawing.Point(245, 36);
+            this.monthTextBox.Name = "monthTextBox";
+            this.monthTextBox.Size = new System.Drawing.Size(120, 22);
+            this.monthTextBox.TabIndex = 3;
             // 
             // calculateButton
             // 
@@ -83,8 +83,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(377, 125);
             this.Controls.Add(this.calculateButton);
-            this.Controls.Add(this.Month);
-            this.Controls.Add(this.Year);
+            this.Controls.Add(this.monthTextBox);
+            this.Controls.Add(this.yearTextBox);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Task3MainForm";
@@ -98,8 +98,8 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox Year;
-        private System.Windows.Forms.TextBox Month;
+        private System.Windows.Forms.TextBox yearTextBox;
+        private System.Windows.Forms.TextBox monthTextBox;
         private System.Windows.Forms.Button calculateButton;
     }
 }
