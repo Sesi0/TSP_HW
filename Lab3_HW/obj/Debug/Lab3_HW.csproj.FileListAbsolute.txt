@@ -30,3 +30,4 @@ D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.exe
 D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.pdb
 D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task4MainForm.resources
 D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task5MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task6MainForm.resources
