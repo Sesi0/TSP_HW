@@ -16,9 +16,10 @@ namespace Lab4_HW
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Task1MainForm());
             //Application.Run(new Task1MainForm());
             //Application.Run(new Task5MainForm());
-            Application.Run(new Task6MainForm());
+            //Application.Run(new Task6MainForm());
         }
     }
 }
