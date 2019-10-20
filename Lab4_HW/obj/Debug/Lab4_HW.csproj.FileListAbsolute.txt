@@ -15,3 +15,5 @@ D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\AxInterop.WMPLib.dll
 D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.csproj.ResolveComReference.cache
 D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.Task6MainForm.resources
 D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.Task1MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.Task2MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.Task3MainForm.resources

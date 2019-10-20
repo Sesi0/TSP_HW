@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -53,6 +54,18 @@
     </Compile>
     <Compile Include="Task1MainForm.Designer.cs">
       <DependentUpon>Task1MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task2MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task2MainForm.designer.cs">
+      <DependentUpon>Task2MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task3MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task3MainForm.designer.cs">
+      <DependentUpon>Task3MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Task5MainForm.cs">
       <SubType>Form</SubType>
@@ -77,6 +90,12 @@
     </Compile>
     <EmbeddedResource Include="Task1MainForm.resx">
       <DependentUpon>Task1MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task2MainForm.resx">
+      <DependentUpon>Task2MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task3MainForm.resx">
+      <DependentUpon>Task3MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Task5MainForm.resx">
       <DependentUpon>Task5MainForm.cs</DependentUpon>
@@ -115,6 +134,9 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="test.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
