@@ -60,6 +60,12 @@
     <Compile Include="Task5MainForm.Designer.cs">
       <DependentUpon>Task5MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Task6MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task6MainForm.Designer.cs">
+      <DependentUpon>Task6MainForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -71,6 +77,9 @@
     </Compile>
     <EmbeddedResource Include="Task5MainForm.resx">
       <DependentUpon>Task5MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task6MainForm.resx">
+      <DependentUpon>Task6MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
