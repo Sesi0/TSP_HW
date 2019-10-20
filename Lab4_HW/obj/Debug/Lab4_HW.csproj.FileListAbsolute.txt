@@ -1,0 +1,15 @@
+D:\Student\DotNET\TSP_HW\Lab4_HW\bin\Debug\Lab4_HW.exe.config
+D:\Student\DotNET\TSP_HW\Lab4_HW\bin\Debug\Lab4_HW.exe
+D:\Student\DotNET\TSP_HW\Lab4_HW\bin\Debug\Lab4_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.csprojAssemblyReference.cache
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.Properties.Resources.resources
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.Task5MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.csproj.GenerateResource.cache
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.csproj.CoreCompileInputs.cache
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.exe
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab4_HW\bin\Debug\Interop.WMPLib.dll
+D:\Student\DotNET\TSP_HW\Lab4_HW\bin\Debug\AxInterop.WMPLib.dll
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Interop.WMPLib.dll
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\AxInterop.WMPLib.dll
+D:\Student\DotNET\TSP_HW\Lab4_HW\obj\Debug\Lab4_HW.csproj.ResolveComReference.cache
