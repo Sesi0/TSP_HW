@@ -67,6 +67,12 @@
     <Compile Include="Task3MainForm.designer.cs">
       <DependentUpon>Task3MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Task4MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task4MainForm.designer.cs">
+      <DependentUpon>Task4MainForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Task5MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +102,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Task3MainForm.resx">
       <DependentUpon>Task3MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task4MainForm.resx">
+      <DependentUpon>Task4MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Task5MainForm.resx">
       <DependentUpon>Task5MainForm.cs</DependentUpon>
