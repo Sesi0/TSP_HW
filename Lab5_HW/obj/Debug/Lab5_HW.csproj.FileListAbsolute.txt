@@ -1,0 +1,13 @@
+D:\Student\DotNET\TSP_HW\Lab5_HW\bin\Debug\Lab5_HW.exe.config
+D:\Student\DotNET\TSP_HW\Lab5_HW\bin\Debug\Lab5_HW.exe
+D:\Student\DotNET\TSP_HW\Lab5_HW\bin\Debug\Lab5_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.csprojAssemblyReference.cache
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.Properties.Resources.resources
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.Task1MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.csproj.GenerateResource.cache
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.csproj.CoreCompileInputs.cache
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.exe
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.Task2MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.Task3MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab5_HW\obj\Debug\Lab5_HW.Task3ScolarshipForm.resources
